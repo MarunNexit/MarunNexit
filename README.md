@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello World 👋
+I'm a recent Software Engineering grad who dove headfirst into the world of code and came out with a shiny new degree and an even shinier passion for tech. 💻✨ I love a good challenge, whether it's nailing projects, acing exams, or diving into extracurricular tech adventures.
 
+## Here's a taste of what I've been up to:
+- [Job Search Platform (June 2024)](https://github.com/MarunNexit/Search_Job_Website): Built a job search site with Angular, .NET Core, and SQL Server. Managed with Jira, versioned with GitHub, designed on Figma, and added animations with Rive. It was a blast! 🚀 
+- Search Job Website
+- Search Job Website
+- Search Job Website
 <!--
 **MarunNexit/MarunNexit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
