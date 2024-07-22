@@ -7,7 +7,7 @@ I'm a recent Software Engineering grad who dove headfirst into the world of code
 - [Publishing House Website (December 2023)](https://github.com/MarunNexit/aws_next): Created a scalable website using Next.js, hosted on AWS Amplify with secure authentication via AWS Cognito and backend processes by AWS Lambda. Data stored in AWS RDS. Smooth and secure! 📚🔒
 - Search Job Website
 
-## Here's a taste of what I've been up to:
+## More About Me:
 I'm the go-to full-stack developer, tackling both frontend and backend tasks. Currently, I'm sharpening my DevOps skills and diving deeper into cloud infrastructure. 🌩
 
 I wrapped up my Bachelor's degree with honors and interned at EPAM, getting hands-on with C# and .NET, and mastering test-driven development. Plus, I earned a certification from EPAM's IT Marathon 3.0.
