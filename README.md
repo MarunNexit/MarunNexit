@@ -1,4 +1,4 @@
-![github-user-contribution](https://github.com/user-attachments/assets/ab959f65-b44f-4a2a-9610-f4237235c405)## Hello World 👋
+## Hello World 👋
 I'm a recent Software Engineering grad who dove headfirst into the world of code and came out with a shiny new degree and an even shinier passion for tech. 💻✨ I love a good challenge, whether it's nailing projects, acing exams, or diving into extracurricular tech adventures.
 
 ## Here's a taste of what I've been up to:
