@@ -5,7 +5,7 @@ I'm a recent Software Engineering grad who dove headfirst into the world of code
 - [Job Search Platform (June 2024)](https://github.com/MarunNexit/Search_Job_Website): Built a job search site with Angular, .NET Core, and SQL Server. Managed with Jira, versioned with GitHub, designed on Figma, and added animations with Rive. It was a blast! 🚀 
 - [Tattoo Salon Website (January 2023)](https://github.com/MarunNexit/tattoo-salon): Crafted a seamless web platform for "Kurisu Tattoo" using React.js, Node.js, Firebase, and Bootstrap. It transformed the salon's operations! 🖌
 - [Publishing House Website (December 2023)](https://github.com/MarunNexit/aws_next): Created a scalable website using Next.js, hosted on AWS Amplify with secure authentication via AWS Cognito and backend processes by AWS Lambda. Data stored in AWS RDS. Smooth and secure! 📚🔒
-- [Watch Website (Training) (July 2023)](https://github.com/MarunNexit/Culinary). Moto 360 Gen3 wristwatch promotional website created for educational purposes using ASP.NET
+- [Watch Website (Training) (July 2023)](https://github.com/MarunNexit/Watch_Moto). Moto 360 Gen3 wristwatch promotional website created for educational purposes using ASP.NET
 - [MVP Cooking site (June 2023)](https://github.com/MarunNexit/Culinary). The cooking website was created for educational purposes on Ruby on Rails
 
 
