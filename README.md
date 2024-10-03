@@ -5,12 +5,16 @@ I'm a recent Software Engineering grad who dove headfirst into the world of code
 <details>
 <summary><b>Skills</b></summary>
 <div>
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,js,ts,bootstrap,cs,dotnet,mysql,aws,azure,firebase,figma)](https://skillicons.dev)
+
 </div>
 
 <summary><b>Learning</b></summary>
 <div>
+  
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,nestjs,terraform)](https://skillicons.dev)
+
 </div>
 </details>
 
