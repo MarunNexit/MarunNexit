@@ -2,13 +2,29 @@
 I'm a recent Software Engineering grad who dove headfirst into the world of code and came out with a shiny new degree and an even shinier passion for tech. 💻✨ I love a good challenge, whether it's nailing projects, acing exams, or diving into extracurricular tech adventures.
 [Portfolio Website:](https://marianmatskevych.wordpress.com) https://marianmatskevych.wordpress.com
 
+<details>
+<summary><b>Skills</b></summary>
+<div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,angular,react,js,ts,bootstrap,cs,dotnet,mysql,aws,azure,firebase,figma)](https://skillicons.dev)
+</div>
+
+<summary><b>Learning</b></summary>
+<div>
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,nestjs,terraform)](https://skillicons.dev)
+</div>
+</details>
+
 ## Here's a taste of what I've been up to:
+- [ Custom QR code (August 2024)](https://github.com/MarunNexit/CustomQRCode): Web project to create a custom QR code. A small simple Angular project. (In progress)
 - [Job Search Platform (June 2024)](https://github.com/MarunNexit/Search_Job_Website): Built a job search site with Angular, .NET Core, and SQL Server. Managed with Jira, versioned with GitHub, designed on Figma, and added animations with Rive. It was a blast! 🚀 
 - [Tattoo Salon Website (January 2023)](https://github.com/MarunNexit/tattoo-salon): Crafted a seamless web platform for "Kurisu Tattoo" using React.js, Node.js, Firebase, and Bootstrap. It transformed the salon's operations! 🖌
 - [Publishing House Website (December 2023)](https://github.com/MarunNexit/aws_next): Created a scalable website using Next.js, hosted on AWS Amplify with secure authentication via AWS Cognito and backend processes by AWS Lambda. Data stored in AWS RDS. Smooth and secure! 📚🔒
 - [Watch Website (Training) (July 2023)](https://github.com/MarunNexit/Watch_Moto). Moto 360 Gen3 wristwatch promotional website created for educational purposes using ASP.NET
 - [MVP Cooking site (June 2023)](https://github.com/MarunNexit/Culinary). The cooking website was created for educational purposes on Ruby on Rails
 
+## Some additional learning projects from EPAM Marathon:
+- [Web chat (2023)](https://github.com/MarunNexit/it_marathon). A simple web platform designed for real-time chatting. 
+- [Pet Web Site (2024)](https://github.com/MarunNexit/it_marathon_2024). A platform where users can create listings to buy and sell pets.
 
 ## More About Me:
 I'm the go-to full-stack developer, tackling both frontend and backend tasks. Currently, I'm sharpening my DevOps skills and diving deeper into cloud infrastructure. 🌩
